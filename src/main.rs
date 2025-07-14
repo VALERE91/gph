@@ -1,8 +1,5 @@
 use std::process::exit;
 
-// This brings all our library code into scope
-use gph_core;
-
 // This declares the `cli` module, which contains all our CLI-specific code.
 mod cli;
 

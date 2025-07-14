@@ -226,7 +226,7 @@ dependencies = [
 [[package]]
 name = "gph_core"
 version = "0.1.0"
-source = "git+https://github.com/VALERE91/gph_core.git#d5abbb3ca999af36f0a167f84340d79e021034f5"
+source = "git+https://github.com/VALERE91/gph_core.git#2896852abfd253ef2c54189275f720720ede10c5"
 dependencies = [
  "anyhow",
  "serde",
